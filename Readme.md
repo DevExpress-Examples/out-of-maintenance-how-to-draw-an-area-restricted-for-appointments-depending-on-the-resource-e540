@@ -1,5 +1,4 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128634736/18.1.3%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E540)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
@@ -14,6 +13,7 @@
 
 <p>This example illustrates how to draw a restricted area in the DayView for a specific resource. The restricted time interval is defined separately for each resource.</p>
 
+<p>Please note that in <b>v.19.1</b> and later versions, <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.TimeRegion"><u>time regions </u></a> can be used to achieve this goal. Please review the following example for more information: <a href="https://supportcenter.devexpress.com/ticket/details/e58/how-to-create-a-time-cell-area-restricted-for-appointments"><u>How to create a time cell area restricted for appointments </u></a> </p>
 <br/>
 
 
