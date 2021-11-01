@@ -14,6 +14,7 @@
 
 <p>This example illustrates how to draw a restricted area in the DayView for a specific resource. The restricted time interval is defined separately for each resource.</p>
 
+<p>Please note that in <b>v.19.1</b> and later versions, <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.TimeRegion"><u>time regions </u></a> can be used to achieve this goal. Please review the following example for more information: <a href="https://supportcenter.devexpress.com/ticket/details/e58/how-to-create-a-time-cell-area-restricted-for-appointments"><u>How to create a time cell area restricted for appointments </u></a> </p>
 <br/>
 
 
